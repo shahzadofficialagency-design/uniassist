@@ -1,0 +1,45 @@
+{
+  "per_language": {
+    "en": {
+      "n": 16,
+      "intent_accuracy": 100.0,
+      "language_accuracy": 100.0,
+      "answer_correctness": 100.0,
+      "retrieval_hit_at_5": 93.8,
+      "avg_latency_ms": 43.5
+    },
+    "mixed": {
+      "n": 12,
+      "intent_accuracy": 100.0,
+      "language_accuracy": 100.0,
+      "answer_correctness": 100.0,
+      "retrieval_hit_at_5": 91.7,
+      "avg_latency_ms": 42.5
+    },
+    "roman_ur": {
+      "n": 21,
+      "intent_accuracy": 100.0,
+      "language_accuracy": 95.2,
+      "answer_correctness": 100.0,
+      "retrieval_hit_at_5": 95.2,
+      "avg_latency_ms": 40.6
+    },
+    "ur": {
+      "n": 10,
+      "intent_accuracy": 100.0,
+      "language_accuracy": 100.0,
+      "answer_correctness": 100.0,
+      "retrieval_hit_at_5": 80.0,
+      "avg_latency_ms": 44.4
+    }
+  },
+  "failures": [],
+  "overall": {
+    "n": 59,
+    "intent_accuracy": 100.0,
+    "language_accuracy": 98.3,
+    "answer_correctness": 100.0,
+    "retrieval_hit_at_5": 91.5,
+    "avg_latency_ms": 42.4
+  }
+}

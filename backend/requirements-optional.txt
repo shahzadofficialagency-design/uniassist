@@ -1,0 +1,7 @@
+# Optional heavy stack for production-grade semantic RAG.
+# The system runs fully without these (built-in BM25 retriever is used instead).
+# When installed, app/rag/retriever.py prefers ChromaDB + multilingual-e5 embeddings.
+chromadb>=0.5
+sentence-transformers>=2.7   # intfloat/multilingual-e5-base
+psycopg2-binary>=2.9         # only needed when DATABASE_URL points to PostgreSQL
+alembic>=1.13                # migrations (SQLite dev works without it)

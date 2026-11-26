@@ -1,0 +1,810 @@
+[
+ {
+  "faculty": "Faculty of Agriculture & Environment",
+  "department": "Agriculture",
+  "program": "BSc (Hons) Agriculture",
+  "criteria": "FSc Pre-Medical / Pre-Engineering + MCT/NAT/IUB Test",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Agriculture & Environment",
+  "department": "Environmental Science",
+  "program": "BS Environmental Sciences",
+  "criteria": "FSc Pre-Medical / Pre-Engineering + MCT/NAT/IUB Test",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Agriculture & Environment",
+  "department": "Forestry, Range & Wildlife Management",
+  "program": "BS Forestry",
+  "criteria": "FSc Pre-Medical / Pre-Engineering + MCT/NAT/IUB Test",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Agriculture & Environment",
+  "department": "Food Science & Technology",
+  "program": "BSc (Hons) Food Science & Technology",
+  "criteria": "FSc Pre-Medical / Pre-Engineering + MCT/NAT/IUB Test",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Agriculture & Environment",
+  "department": "Water Management",
+  "program": "BS Water Management",
+  "criteria": "FSc Pre-Medical / FSc Pre-Engineering / Diploma in Agri Sciences (DAS) 3 Years / DAE Civil Technology with 45% Marks / 40% Marks MCT-HEC-NTS-NAT-IUB Test",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Agriculture & Environment",
+  "department": "Horticultural Sciences",
+  "program": "BS Seed Science & Technology",
+  "criteria": "FSc Pre-Medical / FSc Pre-Engineering / DAS 3 Years with 45% Marks / 40% Marks HEC-NTS-NAT-IUB Test",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Arts & Language",
+  "department": "English Literature",
+  "program": "BS English Literature",
+  "criteria": "Marks in FA/FSc or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Arts & Language",
+  "department": "English Linguistics",
+  "program": "BS English Language & Linguistics",
+  "criteria": "Marks in FA/FSc or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Arts & Language",
+  "department": "English Linguistics",
+  "program": "Diploma in TEFL",
+  "criteria": "Marks in BS or MA or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Arts & Language",
+  "department": "History",
+  "program": "BS History",
+  "criteria": "Marks in FA/FSc or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Arts & Language",
+  "department": "History",
+  "program": "BS Archeology",
+  "criteria": "Marks in FA/FSc or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Arts & Language",
+  "department": "Iqbal Studies",
+  "program": "BS Iqbal Studies",
+  "criteria": "Marks in FA/FSc or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Arts & Language",
+  "department": "Pakistan Studies",
+  "program": "BS Pakistan Studies",
+  "criteria": "Marks in FA/FSc or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Arts & Language",
+  "department": "Persian",
+  "program": "BS Persian",
+  "criteria": "Marks in FA/FSc or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Arts & Language",
+  "department": "Siraiki",
+  "program": "BS Siraiki",
+  "criteria": "Marks in FA/FSc or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Arts & Language",
+  "department": "Urdu",
+  "program": "BS Urdu",
+  "criteria": "Marks in FA/FSc or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Arts & Language",
+  "department": "Fine Arts & Design",
+  "program": "Bachelor in Fine Arts & Design (Painting, Graphic Art, Sculpture, Print Making, Textile Design, Fashion Design, Visual Communication, Miniature, Ceramic Design)",
+  "criteria": "Marks in FA/FSc or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Arts & Language",
+  "department": "Fine Arts & Design",
+  "program": "MFA Visual Arts",
+  "criteria": "Marks in BA/BSc or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Computing",
+  "department": "Computer Science",
+  "program": "BS Computer Science (BS CS)",
+  "criteria": "ICS / FSc / I.Com / FA with any one of: Computer Science, Statistics, Economics, Mathematics, Physics, Commerce, DAE, A-Level, IUB Test",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Computing",
+  "department": "Computer Science",
+  "program": "BS Information Systems (BS IS)",
+  "criteria": "ICS / FSc / I.Com / FA with any one of: Computer Science, Statistics, Economics, Mathematics, Physics, Commerce, DAE, A-Level, IUB Test",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Computing",
+  "department": "Computer Science",
+  "program": "BS Digital Media",
+  "criteria": "ICS / FSc / I.Com / FA with any one of: Computer Science, Statistics, Economics, Mathematics, Physics, Commerce, DAE, A-Level, IUB Test",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Computing",
+  "department": "Computer Science",
+  "program": "BS Networks & Telecommunication",
+  "criteria": "ICS / FSc / I.Com / FA with any one of: Computer Science, Statistics, Economics, Mathematics, Physics, Commerce, DAE, A-Level, IUB Test",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Computing",
+  "department": "Information Technology",
+  "program": "BS Information Technology (BS IT)",
+  "criteria": "ICS / FSc / I.Com / FA with any one of: Computer Science, Statistics, Economics, Mathematics, Physics, Commerce, DAE, A-Level, IUB Test",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Computing",
+  "department": "Artificial Intelligence",
+  "program": "BS Artificial Intelligence",
+  "criteria": "ICS / FSc / I.Com / FA with any one of: Computer Science, Statistics, Economics, Mathematics, Physics, Commerce, DAE, A-Level, IUB Test",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Computing",
+  "department": "Information Security",
+  "program": "BS Information & Cyber Security",
+  "criteria": "ICS / FSc / I.Com / FA with any one of: Computer Science, Statistics, Economics, Mathematics, Physics, Commerce, DAE, A-Level, IUB Test",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Computing",
+  "department": "Information Security",
+  "program": "BS Internet of Things (IoT)",
+  "criteria": "ICS / FSc / I.Com / FA with any one of: Computer Science, Statistics, Economics, Mathematics, Physics, Commerce, DAE, A-Level, IUB Test",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Computing",
+  "department": "Data Science",
+  "program": "BS Data Science",
+  "criteria": "ICS / FSc / I.Com / FA with any one of: Computer Science, Statistics, Economics, Mathematics, Physics, Commerce, DAE, A-Level, IUB Test",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Computing",
+  "department": "Software Engineering",
+  "program": "BS Software Engineering",
+  "criteria": "ICS / FSc / I.Com / FA with any one of: Computer Science, Statistics, Economics, Mathematics, Physics, Commerce, DAE, A-Level, IUB Test",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Education",
+  "department": "Education",
+  "program": "BS Education",
+  "criteria": "Marks in FA/FSc or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Education",
+  "department": "Education",
+  "program": "BS Elementary Education",
+  "criteria": "Marks in FA/FSc or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Education",
+  "department": "Education",
+  "program": "BS Secondary Education",
+  "criteria": "Marks in FA/FSc or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Education",
+  "department": "Educational Research & Evaluation",
+  "program": "BS.Ed (Research & Evaluation) 4 Years / 8 Semesters",
+  "criteria": "Intermediate (FSc) or Equivalent with minimum 45% Marks. Computer Science / Statistics / Mathematics accepted.",
+  "merit_formula": "Marks in FSc or Equivalent + 20 Marks for each Education & Psychology",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Education",
+  "department": "Educational Research & Evaluation",
+  "program": "BS.Ed 2 Years (After 14 Years Education)",
+  "criteria": "ADP, BSc, MSc, Agriculture, Engineering, Statistics or ADE (Education) with minimum 45% Marks or 2.00 CGPA",
+  "merit_formula": "Marks in ADP / BSc / ADE / Equivalent",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Education",
+  "department": "Educational Research & Evaluation",
+  "program": "BS.Ed 1.5 Years (After MSc / BS Science)",
+  "criteria": "BS Science / MSc / Equivalent Qualification with minimum 45% or 2.00 CGPA",
+  "merit_formula": "Marks in BS / MSc Equivalent",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Education",
+  "department": "Educational Training",
+  "program": "B.Ed 4 Years",
+  "criteria": "FA / FSc or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Education",
+  "department": "Educational Training",
+  "program": "B.Ed 2.5 Years",
+  "criteria": "BA / BSc / ADE or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Education",
+  "department": "Educational Training",
+  "program": "B.Ed 1.5 Years",
+  "criteria": "MA / MSc / BS or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Education",
+  "department": "Educational Training",
+  "program": "M.Ed",
+  "criteria": "B.Ed 1 Year",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Education",
+  "department": "Physical Education & Sports Sciences",
+  "program": "BS Physical Education",
+  "criteria": "Marks in FA/FSc or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Education",
+  "department": "Special Education",
+  "program": "BS Special Education",
+  "criteria": "Marks in FA/FSc or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Education",
+  "department": "Special Education",
+  "program": "B.Ed Special Education (1.5 Years)",
+  "criteria": "BS (4 Years) / MA / MSc or Equivalent 16 Years Education with minimum 2nd Division",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Education",
+  "department": "Educational Planning & Management",
+  "program": "BS Educational Planning & Management",
+  "criteria": "Marks in FA/FSc or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Education",
+  "department": "Educational Planning & Management",
+  "program": "BS Educational Leadership & Management",
+  "criteria": "Marks in FA/FSc or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Education",
+  "department": "Language Education",
+  "program": "BS English Language Teaching & Linguistics",
+  "criteria": "Marks in FA/FSc or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Engineering",
+  "department": "Electrical Power Engineering",
+  "program": "BSc Electrical Power Engineering",
+  "criteria": "FSc Pre-Engineering (1st Division) + Entry Test (ECAT/IUB Test)",
+  "merit_formula": "70% FSc Marks + 30% Test Marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Engineering",
+  "department": "Electrical Power Engineering",
+  "program": "BS Electrical Engineering Technology",
+  "criteria": "Intermediate Pre-Engineering, ICS, Relevant DAE, A-Level or Equivalent with minimum 50% Marks",
+  "merit_formula": "80% Academic Marks + 20% Test Marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Engineering",
+  "department": "Electrical Power Engineering",
+  "program": "BS Renewable & Sustainable Energy Systems",
+  "criteria": "Intermediate Pre-Engineering, Pre-Medical, ICS, DAE or Equivalent with minimum 50% Marks",
+  "merit_formula": "80% Academic Marks + 20% Test Marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Engineering",
+  "department": "Electronic Engineering",
+  "program": "BSc Electronic Engineering",
+  "criteria": "FSc Pre-Engineering + ECAT/IUB Test",
+  "merit_formula": "70% FSc Marks + 30% Test Marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Engineering",
+  "department": "Electronic Engineering",
+  "program": "BS Electronics",
+  "criteria": "Intermediate Pre-Engineering, Pre-Medical, ICS, DAE or Equivalent with minimum 50% Marks",
+  "merit_formula": "80% Academic Marks + 20% Test Marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Engineering",
+  "department": "Electronic Engineering",
+  "program": "BS Biomedical Electronics",
+  "criteria": "Intermediate Pre-Engineering, Pre-Medical, ICS, DAE or Equivalent with minimum 50% Marks",
+  "merit_formula": "80% Academic Marks + 20% Test Marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Engineering",
+  "department": "Computer Systems Engineering",
+  "program": "BSc Computer Systems Engineering",
+  "criteria": "FSc Pre-Engineering + ECAT/IUB Test",
+  "merit_formula": "70% FSc Marks + 30% Test Marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Engineering",
+  "department": "Information & Communication Engineering",
+  "program": "BSc Electrical Engineering (Communication)",
+  "criteria": "FSc Pre-Engineering + ECAT/IUB Test",
+  "merit_formula": "70% FSc Marks + 30% Test Marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Engineering",
+  "department": "Information & Communication Engineering",
+  "program": "BS Biomedical Engineering Technology",
+  "criteria": "Intermediate Pre-Engineering, Pre-Medical, ICS, DAE or Equivalent with minimum 50% Marks",
+  "merit_formula": "80% Academic Marks + 20% Test Marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Engineering",
+  "department": "Information & Communication Engineering",
+  "program": "BS Cyber Security & Digital Forensic",
+  "criteria": "Intermediate Pre-Engineering, Pre-Medical, ICS, DAE or Equivalent with minimum 50% Marks",
+  "merit_formula": "80% Academic Marks + 20% Test Marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Engineering",
+  "department": "Information & Communication Engineering",
+  "program": "BS Intelligent Systems & Robotics",
+  "criteria": "Intermediate Pre-Engineering, Pre-Medical, ICS, DAE or Equivalent with minimum 50% Marks",
+  "merit_formula": "80% Academic Marks + 20% Test Marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Engineering",
+  "department": "Civil Engineering",
+  "program": "BSc Civil Engineering",
+  "criteria": "FSc Pre-Engineering + ECAT/IUB Test",
+  "merit_formula": "70% FSc Marks + 30% Test Marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Engineering",
+  "department": "Architecture",
+  "program": "Bachelor of Architecture (B.Arch - 5 Years)",
+  "criteria": "Minimum 50% Marks in Intermediate, A-Level or Equivalent. Eligible Subject Combinations: • Mathematics/Biology, Physics, Chemistry • Mathematics/Biology, Physics, Computer Science • Mathematics/Biology, Physics, Statistics • DAE Architecture/Civil Technology Candidate must appear in DAT (Drawing & Interview Test) conducted by IUB. Minimum 50% Marks in DAT required.",
+  "merit_formula": "DAT Marks = 40% Intermediate / DAE / A-Level Marks = 60%",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Islamic Learning",
+  "department": "Arabic",
+  "program": "BS Arabic",
+  "criteria": "Marks in FA/FSc or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Islamic Learning",
+  "department": "Islamic Studies",
+  "program": "BS Islamic Studies",
+  "criteria": "Marks in FA/FSc or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Islamic Learning",
+  "department": "Hadith",
+  "program": "BS Islamic Studies (Hadith Studies)",
+  "criteria": "Marks in FA/FSc or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Islamic Learning",
+  "department": "Quranic Studies",
+  "program": "BS Islamic Studies (Quranic Studies)",
+  "criteria": "Marks in FA/FSc or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Islamic Learning",
+  "department": "World Religions & Interfaith Harmony",
+  "program": "BS Islamic Studies (World Religion & Interfaith Harmony)",
+  "criteria": "Marks in FA/FSc or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Islamic Learning",
+  "department": "Translation Studies",
+  "program": "BS Translation Studies",
+  "criteria": "Marks in FA/FSc or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Islamic Learning",
+  "department": "Arabic for Understanding Quran",
+  "program": "Diploma in Arabic (1 Year)",
+  "criteria": "Marks in FA/FSc or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Islamic Learning",
+  "department": "Fiqah & Sharia",
+  "program": "BS Islamic Studies (Sharia)",
+  "criteria": "Marks in FA/FSc or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Law",
+  "department": "Law",
+  "program": "LLB (5 Years)",
+  "criteria": "FA/FSc or Equivalent Minimum Eligibility: • FA/FSc or Equivalent • LAT Test passed through HEC • Minimum 50 Marks in LAT",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Management Sciences & Commerce",
+  "department": "Commerce",
+  "program": "BS Commerce",
+  "criteria": "FA/FSc or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Management Sciences & Commerce",
+  "department": "Commerce",
+  "program": "BS Banking & Finance",
+  "criteria": "FA/FSc or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Management Sciences & Commerce",
+  "department": "Accounting & Finance",
+  "program": "BS Accounting & Finance",
+  "criteria": "FA/FSc or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Management Sciences & Commerce",
+  "department": "Management Sciences",
+  "program": "BBA (Hons)",
+  "criteria": "FA/FSc / D.Com or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Management Sciences & Commerce",
+  "department": "Administrative Sciences",
+  "program": "BS Administrative & Management Sciences",
+  "criteria": "FA/FSc / D.Com or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Management Sciences & Commerce",
+  "department": "Entrepreneurship",
+  "program": "BS Entrepreneurship & Innovation",
+  "criteria": "FA/FSc / D.Com or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Management Sciences & Commerce",
+  "department": "Entrepreneurship",
+  "program": "Diploma in Entrepreneurship (1 Year)",
+  "criteria": "FA/FSc / D.Com or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Management Sciences & Commerce",
+  "department": "Leadership",
+  "program": "BS Leadership & Management",
+  "criteria": "FA/FSc / D.Com or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Management Sciences & Commerce",
+  "department": "Disaster Management",
+  "program": "BS Disaster Management",
+  "criteria": "FA/FSc / D.Com or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Management Sciences & Commerce",
+  "department": "Marketing",
+  "program": "BS Digital Marketing",
+  "criteria": "FA/FSc / D.Com or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Management Sciences & Commerce",
+  "department": "Marketing",
+  "program": "Diploma in Digital Marketing",
+  "criteria": "FA/FSc / D.Com or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Management Sciences & Commerce",
+  "department": "Supply Chain",
+  "program": "BS Supply Chain Management",
+  "criteria": "FA/FSc / D.Com or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Management Sciences & Commerce",
+  "department": "Tourism",
+  "program": "BS Tourism & Hospitality Management",
+  "criteria": "FA/FSc / D.Com or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Management Sciences & Commerce",
+  "department": "Tourism",
+  "program": "Diploma in Tourism & Hospitality",
+  "criteria": "FA/FSc / D.Com or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Medicine & Allied Health Sciences",
+  "department": "Conventional Medicine",
+  "program": "Bachelor of Eastern Medicine & Surgery (BEMS)",
+  "criteria": "Minimum 45% in FSc (Pre-Medical) / BSc (Botany, Zoology, Chemistry)",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Medicine & Allied Health Sciences",
+  "department": "Homeopathy",
+  "program": "Bachelor of Homeopathic Medical Sciences (BHMS)",
+  "criteria": "Minimum 45% in FSc (Pre-Medical) / BSc (BZC) / DHMS Equivalency",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Medicine & Allied Health Sciences",
+  "department": "Physical Therapy",
+  "program": "Doctor of Physical Therapy (DPT)",
+  "criteria": "FSc Pre-Medical with MCAT/NAT/IUB Test Minimum 60%",
+  "merit_formula": "FSc 80% + Test 20%",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Medicine & Allied Health Sciences",
+  "department": "Human Nutrition",
+  "program": "BS Human Nutrition & Dietetics",
+  "criteria": "FSc Pre-Medical (Minimum 45%) + Test",
+  "merit_formula": "FSc 80% + Test 20%",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Medicine & Allied Health Sciences",
+  "department": "Public Health",
+  "program": "BS Public Health",
+  "criteria": "60% in FSc (Pre-Medical) or BSc + Test",
+  "merit_formula": "FSc 80% + Test 20%",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Medicine & Allied Health Sciences",
+  "department": "Medical Laboratory",
+  "program": "BS Medical Laboratory Technology",
+  "criteria": "FSc Pre-Medical (Minimum 50%) + Test",
+  "merit_formula": "FSc 80% + Test 20%",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Medicine & Allied Health Sciences",
+  "department": "Forensic Science",
+  "program": "BS Forensic Science",
+  "criteria": "FSc Pre-Medical (Minimum 45%) + Test",
+  "merit_formula": "FSc 80% + Test 20%",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Science",
+  "department": "Botany",
+  "program": "BS Botany",
+  "criteria": "FSc Pre-Medical or Equivalent + MCAT/IUB Test",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Science",
+  "department": "Chemistry",
+  "program": "BS Chemistry",
+  "criteria": "FSc Pre-Medical or Equivalent + MCAT/IUB Test",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Science",
+  "department": "Geography",
+  "program": "BS Geography",
+  "criteria": "Marks in F.A./F.Sc or equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Science",
+  "department": "Mathematics",
+  "program": "BS Mathematics",
+  "criteria": "F.Sc./ICS with Math or Equivalent + NAT/IUB Test",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Science",
+  "department": "Statistics",
+  "program": "BS Statistics",
+  "criteria": "FA/FSc or Equivalent + NAT/IUB Test",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Science",
+  "department": "Zoology",
+  "program": "BS Zoology",
+  "criteria": "FSc Pre-Medical or A-Level + NAT/IUB Test",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Science",
+  "department": "Physics",
+  "program": "BS Physics",
+  "criteria": "FSc or A-Level + ECAT/NAT/IUB Test",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Science",
+  "department": "Biochemistry / Biotechnology / Bioinformatics",
+  "program": "BS Biochemistry / BS Biotechnology / BS Bioinformatics",
+  "criteria": "FSc Pre-Medical or Pre-Engineering or A-Level with Chemistry + MCAT/NAT/IUB Test",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Social Sciences",
+  "department": "Anthropology",
+  "program": "BS Anthropology",
+  "criteria": "Marks in FA/FSc or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Social Sciences",
+  "department": "Applied Psychology",
+  "program": "BS Applied Psychology",
+  "criteria": "Marks in FA/FSc or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Social Sciences",
+  "department": "Economics",
+  "program": "BS Economics / BS Economics & Finance",
+  "criteria": "Marks in FA/FSc or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Social Sciences",
+  "department": "International Relations / Defence & Diplomatic Studies",
+  "program": "BS International Relations / BS Defence & Diplomatic Studies",
+  "criteria": "Marks in FA/FSc/D.Com or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Social Sciences",
+  "department": "Library & Information Science",
+  "program": "BS Library & Information Science",
+  "criteria": "Marks in FA/FSc/D.Com or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ },
+ {
+  "faculty": "Faculty of Social Sciences",
+  "department": "Media & Political Studies",
+  "program": "BS Media Studies / BS Political Science / BS Public Administration",
+  "criteria": "Marks in FA/FSc or Equivalent",
+  "merit_formula": "Percentage of obtained marks",
+  "source_url": "https://iub.edu.pk/index.php/eligibility-criteria"
+ }
+]

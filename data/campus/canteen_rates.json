@@ -1,0 +1,377 @@
+{
+ "items": [
+  {
+   "category": "Rice & Main Meals",
+   "name": "Chawal Chollay",
+   "rate": "85",
+   "weight": "250gm / Per Plate"
+  },
+  {
+   "category": "Snacks & Fast Food",
+   "name": "Pakoray",
+   "rate": "90",
+   "weight": "250gm / Per Plate",
+   "urdu": "پکوڑے"
+  },
+  {
+   "category": "Snacks & Fast Food",
+   "name": "Fruit Chat",
+   "rate": "150",
+   "weight": "250gm / Per Plate",
+   "urdu": "فروٹ چاٹ"
+  },
+  {
+   "category": "Snacks & Fast Food",
+   "name": "Chips",
+   "rate": "80",
+   "weight": "250gm / Per Plate",
+   "urdu": "چپس"
+  },
+  {
+   "category": "Snacks & Fast Food",
+   "name": "Samoosa Aloo",
+   "rate": "30",
+   "weight": "60-80gm Samoosa",
+   "urdu": "سموسہ"
+  },
+  {
+   "category": "Snacks & Fast Food",
+   "name": "Samoosa Qeema",
+   "rate": "40",
+   "weight": "40-50gm Samoosa",
+   "urdu": "سموسہ"
+  },
+  {
+   "category": "Snacks & Fast Food",
+   "name": "2 Samoosa + Channa",
+   "rate": "70",
+   "weight": "60-80gm per Samoosa",
+   "urdu": "سموسہ"
+  },
+  {
+   "category": "Snacks & Fast Food",
+   "name": "Chicken Samosa",
+   "rate": "35",
+   "weight": "40-50gm Samoosa",
+   "urdu": "سموسہ"
+  },
+  {
+   "category": "Drinks & Desserts",
+   "name": "Tea / Tea Leaves",
+   "rate": "60",
+   "weight": "Mix Chai Milk",
+   "urdu": "چائے"
+  },
+  {
+   "category": "Drinks & Desserts",
+   "name": "Tea / Tea Bag",
+   "rate": "55",
+   "weight": "Separate",
+   "urdu": "چائے"
+  },
+  {
+   "category": "Snacks & Fast Food",
+   "name": "Burger Anda Shami",
+   "rate": "100",
+   "weight": "Per Piece",
+   "urdu": "برگر"
+  },
+  {
+   "category": "Snacks & Fast Food",
+   "name": "Burger Shami (Qeema)",
+   "rate": "100",
+   "weight": "Per Piece",
+   "urdu": "برگر"
+  },
+  {
+   "category": "Snacks & Fast Food",
+   "name": "Chicken Burger",
+   "rate": "140",
+   "weight": "with Chicken",
+   "urdu": "برگر"
+  },
+  {
+   "category": "Snacks & Fast Food",
+   "name": "Dahi Bhalay",
+   "rate": "110",
+   "weight": "125gm",
+   "urdu": "دہی بھلے"
+  },
+  {
+   "category": "Snacks & Fast Food",
+   "name": "Gol Gappay",
+   "rate": "100",
+   "weight": "6 Pieces",
+   "urdu": "گول گپے"
+  },
+  {
+   "category": "Snacks & Fast Food",
+   "name": "Shami Kabab",
+   "rate": "40",
+   "weight": "60gm",
+   "urdu": "شامی کباب"
+  },
+  {
+   "category": "Drinks & Desserts",
+   "name": "Dhood Metha",
+   "rate": "160",
+   "weight": "Per kg"
+  },
+  {
+   "category": "Drinks & Desserts",
+   "name": "Juice Kanoo",
+   "rate": "90",
+   "weight": "Big Mug 250ML"
+  },
+  {
+   "category": "Drinks & Desserts",
+   "name": "Juice Carrot",
+   "rate": "90",
+   "weight": "Big Mug 250ML"
+  },
+  {
+   "category": "Drinks & Desserts",
+   "name": "Milk Shake (Apple/Banana)",
+   "rate": "100",
+   "weight": "Big Mug 250ML",
+   "urdu": "ملک شیک"
+  },
+  {
+   "category": "Drinks & Desserts",
+   "name": "Lasi Methi",
+   "rate": "70",
+   "weight": "Big Mug 250ML (Seasonal)",
+   "urdu": "لسی"
+  },
+  {
+   "category": "Drinks & Desserts",
+   "name": "Lasi Namkeen",
+   "rate": "70",
+   "weight": "Big Mug 250ML (Seasonal)",
+   "urdu": "لسی"
+  },
+  {
+   "category": "Rice & Main Meals",
+   "name": "Sada Dahi",
+   "rate": "160",
+   "weight": "Per KG",
+   "urdu": "دہی"
+  },
+  {
+   "category": "Rice & Main Meals",
+   "name": "Chicken Biryani + Raita",
+   "rate": "160/90",
+   "weight": "1/8 Chicken piece, 300gm/150gm chawal",
+   "urdu": "بریانی"
+  },
+  {
+   "category": "Rice & Main Meals",
+   "name": "Dal Sabzi + 3 Roti",
+   "rate": "120",
+   "weight": "125gm"
+  },
+  {
+   "category": "Rice & Main Meals",
+   "name": "Dal Qeema + 3 Roti",
+   "rate": "130",
+   "weight": "125gm"
+  },
+  {
+   "category": "Rice & Main Meals",
+   "name": "Bara Ghoust + 3 Roti",
+   "rate": "180",
+   "weight": "125gm"
+  },
+  {
+   "category": "Rice & Main Meals",
+   "name": "Chota Ghoust + 3 Roti",
+   "rate": "300",
+   "weight": "80gm"
+  },
+  {
+   "category": "Rice & Main Meals",
+   "name": "Sada Dal Chawal + Raita",
+   "rate": "100",
+   "weight": "250gm"
+  },
+  {
+   "category": "Rice & Main Meals",
+   "name": "Chicken Palao",
+   "rate": "140",
+   "weight": "1/8 Chicken Piece, 250gm chawal",
+   "urdu": "پلاؤ"
+  },
+  {
+   "category": "Rice & Main Meals",
+   "name": "Chicken Palao + Raita",
+   "rate": "150",
+   "weight": "1/8 Chicken Piece, 250gm chawal",
+   "urdu": "پلاؤ"
+  },
+  {
+   "category": "Rice & Main Meals",
+   "name": "Chicken Roast (1/4) + 3 Roti",
+   "rate": "160",
+   "weight": ""
+  },
+  {
+   "category": "Bread, Breakfast & Eggs",
+   "name": "Nan Sada",
+   "rate": "As per Government Rate",
+   "weight": "100-110gm"
+  },
+  {
+   "category": "Bread, Breakfast & Eggs",
+   "name": "Nan Rogni",
+   "rate": "As per Government Rate",
+   "weight": "100-110gm"
+  },
+  {
+   "category": "Rice & Main Meals",
+   "name": "Chicken Piece 1/8 + 3 Roti",
+   "rate": "190",
+   "weight": "125gm"
+  },
+  {
+   "category": "Rice & Main Meals",
+   "name": "Chanay",
+   "rate": "60",
+   "weight": "125gm",
+   "urdu": "چنے"
+  },
+  {
+   "category": "Rice & Main Meals",
+   "name": "Chicken Daleem",
+   "rate": "130",
+   "weight": "125gm",
+   "urdu": "دلیم"
+  },
+  {
+   "category": "Rice & Main Meals",
+   "name": "Chicken Qorma + 3 Roti",
+   "rate": "160",
+   "weight": "1/8 per Plate",
+   "urdu": "قورمہ"
+  },
+  {
+   "category": "Karahi & Special",
+   "name": "Chicken Karahi",
+   "rate": "1500",
+   "weight": "Per kg",
+   "urdu": "کڑاہی"
+  },
+  {
+   "category": "Karahi & Special",
+   "name": "Mutton Karahi",
+   "rate": "3600",
+   "weight": "Per kg",
+   "urdu": "کڑاہی"
+  },
+  {
+   "category": "Snacks & Fast Food",
+   "name": "Seekh Kabab",
+   "rate": "110",
+   "weight": "",
+   "urdu": "سیخ کباب"
+  },
+  {
+   "category": "Bread, Breakfast & Eggs",
+   "name": "Paratha Sada (Lacha dar)",
+   "rate": "60",
+   "weight": "125gm",
+   "urdu": "پراٹھا"
+  },
+  {
+   "category": "Bread, Breakfast & Eggs",
+   "name": "Aloo Partha",
+   "rate": "90",
+   "weight": "125gm",
+   "urdu": "پراٹھا"
+  },
+  {
+   "category": "Bread, Breakfast & Eggs",
+   "name": "Halwa Puri + Chanay",
+   "rate": "130",
+   "weight": "2 Puri + Halwa + Chanay",
+   "urdu": "حلوہ پوری"
+  },
+  {
+   "category": "Bread, Breakfast & Eggs",
+   "name": "Egg Fried + 2 Slices",
+   "rate": "60",
+   "weight": ""
+  },
+  {
+   "category": "Bread, Breakfast & Eggs",
+   "name": "Egg Omelet",
+   "rate": "50",
+   "weight": "",
+   "urdu": "آملیٹ"
+  },
+  {
+   "category": "Drinks & Desserts",
+   "name": "Fruit Custard",
+   "rate": "100",
+   "weight": "125gm"
+  },
+  {
+   "category": "Drinks & Desserts",
+   "name": "Firni Kheer",
+   "rate": "90",
+   "weight": "125gm"
+  },
+  {
+   "category": "Drinks & Desserts",
+   "name": "Khoay wala Zarda",
+   "rate": "120",
+   "weight": "125gm"
+  },
+  {
+   "category": "Rice & Main Meals",
+   "name": "Karhi Pakora + 3 Roti",
+   "rate": "120",
+   "weight": "125gm"
+  },
+  {
+   "category": "Snacks & Fast Food",
+   "name": "02 Chicken Roll",
+   "rate": "70",
+   "weight": "Plate"
+  },
+  {
+   "category": "Bread, Breakfast & Eggs",
+   "name": "Roti",
+   "rate": "As per Government Rate",
+   "weight": "Per Piece (100 gm)"
+  },
+  {
+   "category": "Rice & Main Meals",
+   "name": "Cutlus Palao",
+   "rate": "110",
+   "weight": "250gm"
+  },
+  {
+   "category": "Rice & Main Meals",
+   "name": "Chicken Jalfrazi",
+   "rate": "120",
+   "weight": "125gm"
+  },
+  {
+   "category": "Snacks & Fast Food",
+   "name": "Chicken Shwarma",
+   "rate": "90",
+   "weight": "Per Piece (Small)",
+   "urdu": "شاورما"
+  },
+  {
+   "category": "Snacks & Fast Food",
+   "name": "Chicken Shwarma",
+   "rate": "120",
+   "weight": "Per Piece (Large)",
+   "urdu": "شاورما"
+  }
+ ],
+ "note": "Nan Sada, Nan Rogni and Roti are priced 'As per Government Rate' in the official list. Chicken Biryani + Raita shows two rates (160/90) as printed in the list.",
+ "source": "Official Rate List 2026-27, Mess & Canteen Committee, The Islamia University of Bahawalpur (rates as printed; the list header says 'Purposed Rate 2026-27')",
+ "title": "Rate List 2026-27 — Canteens/Messes/Tuck Shops at Bahawalpur Campuses"
+}

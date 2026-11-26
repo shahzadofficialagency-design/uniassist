@@ -1,0 +1,1632 @@
+{
+ "source_note": "Fetched from iub.edu.pk on 2026-11-16 (official IUB website).",
+ "requirements": [
+  {
+   "dept": "Unassigned Department",
+   "name": "BS (Hons)Agriculture (Group-A)",
+   "criteria": "FSc Pre-Medical / Pre-Engineering + MCT/NAT/IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": "MCT",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Unassigned Department",
+   "name": "BS (Hons)Agriculture (Group-B)",
+   "criteria": "FSc Pre-Medical / Pre-Engineering + MCT/NAT/IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": "MCT",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Institute of Agro Industry & Environmental Sciences",
+   "name": "BS Environmental Sciences (Group-A)",
+   "criteria": "FSc Pre-Medical / Pre-Engineering + MCT/NAT/IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": "MCT",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Institute of Forestry Range & Wildlife Management",
+   "name": "BS Forestry (Group-A)",
+   "criteria": "FSc Pre-Medical / Pre-Engineering + MCT/NAT/IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": "MCT",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Institute of Forestry Range & Wildlife Management",
+   "name": "BS Forestry (Group-B)",
+   "criteria": "FSc Pre-Medical / Pre-Engineering + MCT/NAT/IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": "MCT",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Food Science and Technology",
+   "name": "BS Food Science and Technology (Group-A)",
+   "criteria": "FSc Pre-Medical / Pre-Engineering + MCT/NAT/IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": "MCT",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Food Science and Technology",
+   "name": "BS Food Science and Technology (Group-B)",
+   "criteria": "FSc Pre-Medical / Pre-Engineering + MCT/NAT/IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": "MCT",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Water Management",
+   "name": "BS Water Management (Group-A)",
+   "criteria": "FSc Pre-Medical / FSc Pre-Engineering / Diploma in Agri Sciences (DAS) 3 Years / DAE Civil Technology with 45% Marks / 40% Marks MCT-HEC-NTS-NAT-IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": 45.0,
+   "entry_test": "MCT",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Water Management",
+   "name": "BS Water Management (Group-B)",
+   "criteria": "FSc Pre-Medical / FSc Pre-Engineering / Diploma in Agri Sciences (DAS) 3 Years / DAE Civil Technology with 45% Marks / 40% Marks MCT-HEC-NTS-NAT-IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": 45.0,
+   "entry_test": "MCT",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Unassigned Department",
+   "name": "BS (Seed Sciences & Technology) (Group A)",
+   "criteria": "FSc Pre-Medical / FSc Pre-Engineering / DAS 3 Years with 45% Marks / 40% Marks HEC-NTS-NAT-IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": 45.0,
+   "entry_test": "Test (see criteria)",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Department of English Literature",
+   "name": "BS English Language & Literature (Group-A)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: alias. The program name on the eligibility page differs slightly from the fee structure; matched by department."
+  },
+  {
+   "dept": "Department of English Literature",
+   "name": "BS English Language & Literature (Group-B)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: alias. The program name on the eligibility page differs slightly from the fee structure; matched by department."
+  },
+  {
+   "dept": "Department of English Linguistics",
+   "name": "BS English Language & Linguistics (Group-A)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of English Linguistics",
+   "name": "BS English Language & Linguistics (Group-B)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of English Linguistics",
+   "name": "Diploma in TEFL (One Year Program) (Group-A)",
+   "criteria": "Marks in BS or MA or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of English Linguistics",
+   "name": "Diploma in TEFL (One Year Program) (Group-B)",
+   "criteria": "Marks in BS or MA or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of History",
+   "name": "BS History (Group-A)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of History",
+   "name": "BS History (Group-B)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Archeology",
+   "name": "BS Archeology (Group-A)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Department of Archeology",
+   "name": "BS Archeology (Group-B)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Department of Iqbal Studies",
+   "name": "BS Iqbal Studies (Group-A)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Iqbal Studies",
+   "name": "BS Iqbal Studies (Group-B)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Pakistan Studies",
+   "name": "BS Pakistan Studies (Group-A)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Pakistan Studies",
+   "name": "BS Pakistan Studies (Group-B)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Persian",
+   "name": "BS Persian (Group-A)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Persian",
+   "name": "BS Persian (Group-B)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Urdu",
+   "name": "BS Urdu (Group-A)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Urdu",
+   "name": "BS Urdu (Group-B)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Computer Science",
+   "name": "BS Computer Science (Group-A)",
+   "criteria": "ICS / FSc / I.Com / FA with any one of: Computer Science, Statistics, Economics, Mathematics, Physics, Commerce, DAE, A-Level, IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": "IUB Test",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Computer Science",
+   "name": "BS Computer Science (Group-B)",
+   "criteria": "ICS / FSc / I.Com / FA with any one of: Computer Science, Statistics, Economics, Mathematics, Physics, Commerce, DAE, A-Level, IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": "IUB Test",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Computer Science",
+   "name": "BS Information Systems (Group-A)",
+   "criteria": "ICS / FSc / I.Com / FA with any one of: Computer Science, Statistics, Economics, Mathematics, Physics, Commerce, DAE, A-Level, IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": "IUB Test",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Computer Science",
+   "name": "BS Information Systems (Group-B)",
+   "criteria": "ICS / FSc / I.Com / FA with any one of: Computer Science, Statistics, Economics, Mathematics, Physics, Commerce, DAE, A-Level, IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": "IUB Test",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Computer Science",
+   "name": "BS Digital Media (Group-A)",
+   "criteria": "ICS / FSc / I.Com / FA with any one of: Computer Science, Statistics, Economics, Mathematics, Physics, Commerce, DAE, A-Level, IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": "IUB Test",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Computer Science",
+   "name": "BS Digital Media (Group-B)",
+   "criteria": "ICS / FSc / I.Com / FA with any one of: Computer Science, Statistics, Economics, Mathematics, Physics, Commerce, DAE, A-Level, IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": "IUB Test",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Computer Science",
+   "name": "BS Networks and Telecommunication (Group-A)",
+   "criteria": "ICS / FSc / I.Com / FA with any one of: Computer Science, Statistics, Economics, Mathematics, Physics, Commerce, DAE, A-Level, IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": "IUB Test",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Computer Science",
+   "name": "BS Networks and Telecommunication (Group-B)",
+   "criteria": "ICS / FSc / I.Com / FA with any one of: Computer Science, Statistics, Economics, Mathematics, Physics, Commerce, DAE, A-Level, IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": "IUB Test",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Information Technology",
+   "name": "BS Information Technology (Group-A)",
+   "criteria": "ICS / FSc / I.Com / FA with any one of: Computer Science, Statistics, Economics, Mathematics, Physics, Commerce, DAE, A-Level, IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": "IUB Test",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Information Technology",
+   "name": "BS Information Technology (Group-B)",
+   "criteria": "ICS / FSc / I.Com / FA with any one of: Computer Science, Statistics, Economics, Mathematics, Physics, Commerce, DAE, A-Level, IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": "IUB Test",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Artificial Intelligence",
+   "name": "BS Artificial Intelligence (Group-A)",
+   "criteria": "ICS / FSc / I.Com / FA with any one of: Computer Science, Statistics, Economics, Mathematics, Physics, Commerce, DAE, A-Level, IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": "IUB Test",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Artificial Intelligence",
+   "name": "BS Artificial Intelligence (Group-B)",
+   "criteria": "ICS / FSc / I.Com / FA with any one of: Computer Science, Statistics, Economics, Mathematics, Physics, Commerce, DAE, A-Level, IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": "IUB Test",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Information Security",
+   "name": "BS Information Security (Group-A)",
+   "criteria": "ICS / FSc / I.Com / FA with any one of: Computer Science, Statistics, Economics, Mathematics, Physics, Commerce, DAE, A-Level, IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": "IUB Test",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: alias. The program name on the eligibility page differs slightly from the fee structure; matched by department."
+  },
+  {
+   "dept": "Department of Information Security",
+   "name": "BS Information Security (Group-B)",
+   "criteria": "ICS / FSc / I.Com / FA with any one of: Computer Science, Statistics, Economics, Mathematics, Physics, Commerce, DAE, A-Level, IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": "IUB Test",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: alias. The program name on the eligibility page differs slightly from the fee structure; matched by department."
+  },
+  {
+   "dept": "Department of Information Security",
+   "name": "BS Internet of Things (Group-A)",
+   "criteria": "ICS / FSc / I.Com / FA with any one of: Computer Science, Statistics, Economics, Mathematics, Physics, Commerce, DAE, A-Level, IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": "IUB Test",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Information Security",
+   "name": "BS Internet of Things (Group-B)",
+   "criteria": "ICS / FSc / I.Com / FA with any one of: Computer Science, Statistics, Economics, Mathematics, Physics, Commerce, DAE, A-Level, IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": "IUB Test",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Data Sciences",
+   "name": "BS Data Sciences (Group-A)",
+   "criteria": "ICS / FSc / I.Com / FA with any one of: Computer Science, Statistics, Economics, Mathematics, Physics, Commerce, DAE, A-Level, IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": "IUB Test",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Data Sciences",
+   "name": "BS Data Sciences (Group-B)",
+   "criteria": "ICS / FSc / I.Com / FA with any one of: Computer Science, Statistics, Economics, Mathematics, Physics, Commerce, DAE, A-Level, IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": "IUB Test",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Software Engineering",
+   "name": "BS Software Engineering (Group-A)",
+   "criteria": "ICS / FSc / I.Com / FA with any one of: Computer Science, Statistics, Economics, Mathematics, Physics, Commerce, DAE, A-Level, IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": "IUB Test",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Software Engineering",
+   "name": "BS Software Engineering (Group-B)",
+   "criteria": "ICS / FSc / I.Com / FA with any one of: Computer Science, Statistics, Economics, Mathematics, Physics, Commerce, DAE, A-Level, IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": "IUB Test",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Education",
+   "name": "BS Education (Group-A)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Education",
+   "name": "BS Education (Group-B)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Education",
+   "name": "BS Elementary Education (Group-A)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Education",
+   "name": "BS Elementary Education (Group-B)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Education",
+   "name": "BS Secondary Education (Group-A)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Education",
+   "name": "BS Secondary Education (Group-B)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Educational Research and Evaluation",
+   "name": "BEd Science (4-years) after FSc (Group-A)",
+   "criteria": "Intermediate (FSc) or Equivalent with minimum 45% Marks. Computer Science / Statistics / Mathematics accepted.",
+   "merit_formula": "Marks in FSc or Equivalent + 20 Marks for each Education & Psychology",
+   "min_marks_pct": 45.0,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: alias. The program name on the eligibility page differs slightly from the fee structure; matched by department."
+  },
+  {
+   "dept": "Department of Educational Research and Evaluation",
+   "name": "BEd Science (4-years) after FSc (Group-B)",
+   "criteria": "Intermediate (FSc) or Equivalent with minimum 45% Marks. Computer Science / Statistics / Mathematics accepted.",
+   "merit_formula": "Marks in FSc or Equivalent + 20 Marks for each Education & Psychology",
+   "min_marks_pct": 45.0,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: alias. The program name on the eligibility page differs slightly from the fee structure; matched by department."
+  },
+  {
+   "dept": "Department of Educational Training",
+   "name": "B.Ed 04 years (After FA/F.Sc) (Group-A)",
+   "criteria": "ADP, BSc, MSc, Agriculture, Engineering, Statistics or ADE (Education) with minimum 45% Marks or 2.00 CGPA",
+   "merit_formula": "Marks in ADP / BSc / ADE / Equivalent",
+   "min_marks_pct": 45.0,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Department of Educational Training",
+   "name": "B.Ed 04 years (After FA/F.Sc) (Group-B)",
+   "criteria": "ADP, BSc, MSc, Agriculture, Engineering, Statistics or ADE (Education) with minimum 45% Marks or 2.00 CGPA",
+   "merit_formula": "Marks in ADP / BSc / ADE / Equivalent",
+   "min_marks_pct": 45.0,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Department of Educational Training",
+   "name": "B.Ed. 2.5 Years (After BA/B.Sc/ADE) (Group-A)",
+   "criteria": "ADP, BSc, MSc, Agriculture, Engineering, Statistics or ADE (Education) with minimum 45% Marks or 2.00 CGPA",
+   "merit_formula": "Marks in ADP / BSc / ADE / Equivalent",
+   "min_marks_pct": 45.0,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Department of Educational Training",
+   "name": "B.Ed. 2.5 Years (After BA/B.Sc/ADE) (Group-B)",
+   "criteria": "ADP, BSc, MSc, Agriculture, Engineering, Statistics or ADE (Education) with minimum 45% Marks or 2.00 CGPA",
+   "merit_formula": "Marks in ADP / BSc / ADE / Equivalent",
+   "min_marks_pct": 45.0,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Department of Educational Training",
+   "name": "B.Ed. 1.5 Years (After MA/M.Sc/BS) (Group-A)",
+   "criteria": "ADP, BSc, MSc, Agriculture, Engineering, Statistics or ADE (Education) with minimum 45% Marks or 2.00 CGPA",
+   "merit_formula": "Marks in ADP / BSc / ADE / Equivalent",
+   "min_marks_pct": 45.0,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Department of Educational Training",
+   "name": "B.Ed. 1.5 Years (After MA/M.Sc/BS) (Group-B)",
+   "criteria": "ADP, BSc, MSc, Agriculture, Engineering, Statistics or ADE (Education) with minimum 45% Marks or 2.00 CGPA",
+   "merit_formula": "Marks in ADP / BSc / ADE / Equivalent",
+   "min_marks_pct": 45.0,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Department of Educational Research and Evaluation",
+   "name": "BEd Science (1.5-years) after BS Science or MSc (Group-A)",
+   "criteria": "BS Science / MSc / Equivalent Qualification with minimum 45% or 2.00 CGPA",
+   "merit_formula": "Marks in BS / MSc Equivalent",
+   "min_marks_pct": 45.0,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: subset_dept."
+  },
+  {
+   "dept": "Department of Educational Research and Evaluation",
+   "name": "BEd Science (1.5-years) after BS Science or MSc (Group-B)",
+   "criteria": "BS Science / MSc / Equivalent Qualification with minimum 45% or 2.00 CGPA",
+   "merit_formula": "Marks in BS / MSc Equivalent",
+   "min_marks_pct": 45.0,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: subset_dept."
+  },
+  {
+   "dept": "Department of Educational Research and Evaluation",
+   "name": "BEd Science (2-years) after 4-Semester of BS or BSc (Group-A)",
+   "criteria": "BS Science / MSc / Equivalent Qualification with minimum 45% or 2.00 CGPA",
+   "merit_formula": "Marks in BS / MSc Equivalent",
+   "min_marks_pct": 45.0,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: subset_dept."
+  },
+  {
+   "dept": "Department of Educational Research and Evaluation",
+   "name": "BEd Science (2-years) after 4-Semester of BS or BSc(Group-B)",
+   "criteria": "BS Science / MSc / Equivalent Qualification with minimum 45% or 2.00 CGPA",
+   "merit_formula": "Marks in BS / MSc Equivalent",
+   "min_marks_pct": 45.0,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: subset_dept."
+  },
+  {
+   "dept": "Department of Educational Training",
+   "name": "M.Ed. (After B.Ed/BS Ed) (Group-A)",
+   "criteria": "B.Ed 1 Year",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Physical Education & Sports Sc.",
+   "name": "BS Physical Education & Sports Sciences) (Group-A)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: subset_global."
+  },
+  {
+   "dept": "Department of Physical Education & Sports Sc.",
+   "name": "BS Physical Education & Sports Sciences) (Group-B)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: subset_global."
+  },
+  {
+   "dept": "Department of Special Education",
+   "name": "BS Special Education (Group-A)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Special Education",
+   "name": "BS Special Education (Group-B)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Special Education",
+   "name": "B.Ed. 1.5 Years Special Education (Group-A)",
+   "criteria": "BS (4 Years) / MA / MSc or Equivalent 16 Years Education with minimum 2nd Division",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Special Education",
+   "name": "B.Ed. 1.5 Years Special Education (Group-B)",
+   "criteria": "BS (4 Years) / MA / MSc or Equivalent 16 Years Education with minimum 2nd Division",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Educational Planning & Management",
+   "name": "BS Educational Planning & Management (Group-A)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Educational Planning & Management",
+   "name": "BS Educational Planning & Management (Group-B)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Education",
+   "name": "BS Educational Leadership and Management (Group-A)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Department of Education",
+   "name": "BS Educational Leadership and Management (Group-B)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Department of Electrical Power Engineering",
+   "name": "B.Sc. Electrical Power Engineering (Group-A)",
+   "criteria": "FSc Pre-Engineering (1st Division) + Entry Test (ECAT/IUB Test)",
+   "merit_formula": "70% FSc Marks + 30% Test Marks",
+   "min_marks_pct": null,
+   "entry_test": "Entry Test",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Information and Communication Engineering",
+   "name": "BS Electrical Engineering Technology (Group-A)",
+   "criteria": "Intermediate Pre-Engineering, ICS, Relevant DAE, A-Level or Equivalent with minimum 50% Marks",
+   "merit_formula": "80% Academic Marks + 20% Test Marks",
+   "min_marks_pct": 50.0,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: subset_global."
+  },
+  {
+   "dept": "Department of Information and Communication Engineering",
+   "name": "BS Electrical Engineering Technology (Group-B)",
+   "criteria": "Intermediate Pre-Engineering, ICS, Relevant DAE, A-Level or Equivalent with minimum 50% Marks",
+   "merit_formula": "80% Academic Marks + 20% Test Marks",
+   "min_marks_pct": 50.0,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: subset_global."
+  },
+  {
+   "dept": "Sir Sadiq Institute of Technology",
+   "name": "BS Electrical Engineering Technology (Group-A)",
+   "criteria": "Intermediate Pre-Engineering, ICS, Relevant DAE, A-Level or Equivalent with minimum 50% Marks",
+   "merit_formula": "80% Academic Marks + 20% Test Marks",
+   "min_marks_pct": 50.0,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: subset_global."
+  },
+  {
+   "dept": "Sir Sadiq Institute of Technology",
+   "name": "BS Electrical Engineering Technology (Group-B)",
+   "criteria": "Intermediate Pre-Engineering, ICS, Relevant DAE, A-Level or Equivalent with minimum 50% Marks",
+   "merit_formula": "80% Academic Marks + 20% Test Marks",
+   "min_marks_pct": 50.0,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: subset_global."
+  },
+  {
+   "dept": "Center of Renewable Energy System",
+   "name": "BS Renewable and Sustainable Energy (Group-A)",
+   "criteria": "Intermediate Pre-Engineering, Pre-Medical, ICS, DAE or Equivalent with minimum 50% Marks",
+   "merit_formula": "80% Academic Marks + 20% Test Marks",
+   "min_marks_pct": 50.0,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: fuzzy_0.83."
+  },
+  {
+   "dept": "Center of Renewable Energy System",
+   "name": "BS Renewable and Sustainable Energy (Group-B)",
+   "criteria": "Intermediate Pre-Engineering, Pre-Medical, ICS, DAE or Equivalent with minimum 50% Marks",
+   "merit_formula": "80% Academic Marks + 20% Test Marks",
+   "min_marks_pct": 50.0,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: fuzzy_0.83."
+  },
+  {
+   "dept": "Department of Electronics Engineering",
+   "name": "B.Sc. Electronics Engineering (Group-A)",
+   "criteria": "FSc Pre-Engineering + ECAT/IUB Test",
+   "merit_formula": "70% FSc Marks + 30% Test Marks",
+   "min_marks_pct": null,
+   "entry_test": "ECAT",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Electronics Engineering",
+   "name": "BS Electronics (Group-A)",
+   "criteria": "Intermediate Pre-Engineering, Pre-Medical, ICS, DAE or Equivalent with minimum 50% Marks",
+   "merit_formula": "80% Academic Marks + 20% Test Marks",
+   "min_marks_pct": 50.0,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Electronics Engineering",
+   "name": "BS Electronics (Group-B)",
+   "criteria": "Intermediate Pre-Engineering, Pre-Medical, ICS, DAE or Equivalent with minimum 50% Marks",
+   "merit_formula": "80% Academic Marks + 20% Test Marks",
+   "min_marks_pct": 50.0,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Electronics Engineering",
+   "name": "BS Biomedical Electronics (Group-A)",
+   "criteria": "Intermediate Pre-Engineering, Pre-Medical, ICS, DAE or Equivalent with minimum 50% Marks",
+   "merit_formula": "80% Academic Marks + 20% Test Marks",
+   "min_marks_pct": 50.0,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Electronics Engineering",
+   "name": "BS Biomedical Electronics (Group-B)",
+   "criteria": "Intermediate Pre-Engineering, Pre-Medical, ICS, DAE or Equivalent with minimum 50% Marks",
+   "merit_formula": "80% Academic Marks + 20% Test Marks",
+   "min_marks_pct": 50.0,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Computer System Engineering",
+   "name": "B.Sc. Computer Systems Engineering (Group-A)",
+   "criteria": "FSc Pre-Engineering + ECAT/IUB Test",
+   "merit_formula": "70% FSc Marks + 30% Test Marks",
+   "min_marks_pct": null,
+   "entry_test": "ECAT",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Sir Sadiq Institute of Technology",
+   "name": "BS Biomedical Engineering Technology (Group-A)",
+   "criteria": "Intermediate Pre-Engineering, Pre-Medical, ICS, DAE or Equivalent with minimum 50% Marks",
+   "merit_formula": "80% Academic Marks + 20% Test Marks",
+   "min_marks_pct": 50.0,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Sir Sadiq Institute of Technology",
+   "name": "BS Biomedical Engineering Technology (Group-B)",
+   "criteria": "Intermediate Pre-Engineering, Pre-Medical, ICS, DAE or Equivalent with minimum 50% Marks",
+   "merit_formula": "80% Academic Marks + 20% Test Marks",
+   "min_marks_pct": 50.0,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Department of Information and Communication Engineering",
+   "name": "BS Cyber Security and Digital Forensic (Group-A)",
+   "criteria": "Intermediate Pre-Engineering, Pre-Medical, ICS, DAE or Equivalent with minimum 50% Marks",
+   "merit_formula": "80% Academic Marks + 20% Test Marks",
+   "min_marks_pct": 50.0,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Information and Communication Engineering",
+   "name": "BS Cyber Security and Digital Forensic (Group-B)",
+   "criteria": "Intermediate Pre-Engineering, Pre-Medical, ICS, DAE or Equivalent with minimum 50% Marks",
+   "merit_formula": "80% Academic Marks + 20% Test Marks",
+   "min_marks_pct": 50.0,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Information and Communication Engineering",
+   "name": "BS Intelligent Systems and Robotics (Group-A)",
+   "criteria": "Intermediate Pre-Engineering, Pre-Medical, ICS, DAE or Equivalent with minimum 50% Marks",
+   "merit_formula": "80% Academic Marks + 20% Test Marks",
+   "min_marks_pct": 50.0,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Information and Communication Engineering",
+   "name": "BS Intelligent Systems and Robotics (Group-B)",
+   "criteria": "Intermediate Pre-Engineering, Pre-Medical, ICS, DAE or Equivalent with minimum 50% Marks",
+   "merit_formula": "80% Academic Marks + 20% Test Marks",
+   "min_marks_pct": 50.0,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Civil Engineering",
+   "name": "B.Sc. Civil Engineering (Group-A)",
+   "criteria": "FSc Pre-Engineering + ECAT/IUB Test",
+   "merit_formula": "70% FSc Marks + 30% Test Marks",
+   "min_marks_pct": null,
+   "entry_test": "ECAT",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Architecture",
+   "name": "B.Architechture (Group-A)",
+   "criteria": "Minimum 50% Marks in Intermediate, A-Level or Equivalent. Eligible Subject Combinations: • Mathematics/Biology, Physics, Chemistry • Mathematics/Biology, Physics, Computer Science • Mathematics/Biology, Physics, Statistics • DAE Architecture/Civil Technology Candidate must appear in DAT (Drawing & Interview Test) conducted by IUB. Minimum 50% Marks in DAT required.",
+   "merit_formula": "DAT Marks = 40% Intermediate / DAE / A-Level Marks = 60%",
+   "min_marks_pct": 50.0,
+   "entry_test": "DAT",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: alias. The program name on the eligibility page differs slightly from the fee structure; matched by department."
+  },
+  {
+   "dept": "Department of Arabic",
+   "name": "BS Arabic (Group-A)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Arabic",
+   "name": "BS Arabic (Group-B)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Islamic Studies",
+   "name": "BS Islamic Studies (Group-A)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Islamic Studies",
+   "name": "BS Islamic Studies (Group-B)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Hadith",
+   "name": "BS Islamic Studies with Specialization in Hadith & Seerah (Group-A)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: subset_dept."
+  },
+  {
+   "dept": "Department of Quranic Studies",
+   "name": "BS Islamic Studies with Specialization in Quranic Studies (Group-A)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: subset_dept."
+  },
+  {
+   "dept": "Department of Quranic Studies",
+   "name": "BS Islamic Studies with Specialization in Quranic Studies (Group-B)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: subset_dept."
+  },
+  {
+   "dept": "Department of Translation Studies",
+   "name": "BS Translation & Interpretation (Group-A)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: alias. The program name on the eligibility page differs slightly from the fee structure; matched by department."
+  },
+  {
+   "dept": "Department of Translation Studies",
+   "name": "BS Translation & Interpretation (Group-B)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: alias. The program name on the eligibility page differs slightly from the fee structure; matched by department."
+  },
+  {
+   "dept": "Department of Translation Studies",
+   "name": "Diploma in Arabic for Understanding Quran (One Year Program) (Eve)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: subset_global."
+  },
+  {
+   "dept": "Department of Law",
+   "name": "LLB 5 Years (Under Semester System) (Group-A)",
+   "criteria": "FA/FSc or Equivalent Minimum Eligibility: • FA/FSc or Equivalent • LAT Test passed through HEC • Minimum 50 Marks in LAT",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": "Test (see criteria)",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Law",
+   "name": "LLB 5 Years (Under Semester System) (Group-B)",
+   "criteria": "FA/FSc or Equivalent Minimum Eligibility: • FA/FSc or Equivalent • LAT Test passed through HEC • Minimum 50 Marks in LAT",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": "Test (see criteria)",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Commerce",
+   "name": "BS. Commerce (Group-A)",
+   "criteria": "FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Commerce",
+   "name": "BS. Commerce (Group-B)",
+   "criteria": "FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Accounting & Finance",
+   "name": "BS. Banking and Finance (Group-A)",
+   "criteria": "FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Department of Accounting & Finance",
+   "name": "BS. Banking and Finance (Group-B)",
+   "criteria": "FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Department of Accounting & Finance",
+   "name": "BS. Accounting & Finance (Group-A)",
+   "criteria": "FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Accounting & Finance",
+   "name": "BS. Accounting & Finance (Group-B)",
+   "criteria": "FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Institute of Business, Management Administrative Sciences",
+   "name": "BBA (After 14 Years of Education) (2-Years Program) (Group-A)",
+   "criteria": "FA/FSc / D.Com or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Institute of Business, Management Administrative Sciences",
+   "name": "BBA (After 14 Years of Education) (2-Years Program) (Group-B)",
+   "criteria": "FA/FSc / D.Com or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Institute of Business, Management Administrative Sciences",
+   "name": "BS Administrative & Management Sciences (Group-A)",
+   "criteria": "FA/FSc / D.Com or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Institute of Business, Management Administrative Sciences",
+   "name": "BS Administrative & Management Sciences (Group-B)",
+   "criteria": "FA/FSc / D.Com or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Department of Entrepreneurship & Innovation",
+   "name": "BS Entrepreneurship & Innovation (After 12 Years of Education) (Group-A)",
+   "criteria": "FA/FSc / D.Com or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Department of Entrepreneurship & Innovation",
+   "name": "BS Entrepreneurship & Innovation (After 12 Years of Education) (Group-B)",
+   "criteria": "FA/FSc / D.Com or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Institute of Business, Management Administrative Sciences",
+   "name": "BS Leadership & Management (Group-A)",
+   "criteria": "FA/FSc / D.Com or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Institute of Business, Management Administrative Sciences",
+   "name": "BS Leadership & Management (Group-B)",
+   "criteria": "FA/FSc / D.Com or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Institute of Business, Management Administrative Sciences",
+   "name": "BS in Disaster Management (Group-A)",
+   "criteria": "FA/FSc / D.Com or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Institute of Business, Management Administrative Sciences",
+   "name": "BS in Disaster Management (Group-B)",
+   "criteria": "FA/FSc / D.Com or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Institute of Business, Management Administrative Sciences",
+   "name": "BS Digital Marketing (Group-A)",
+   "criteria": "FA/FSc / D.Com or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Institute of Business, Management Administrative Sciences",
+   "name": "BS Digital Marketing (Group-B)",
+   "criteria": "FA/FSc / D.Com or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Institute of Business, Management Administrative Sciences",
+   "name": "BS Supply Chain Management (Group-A)",
+   "criteria": "FA/FSc / D.Com or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Institute of Business, Management Administrative Sciences",
+   "name": "BS Supply Chain Management (Group-B)",
+   "criteria": "FA/FSc / D.Com or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Department of Tourism & Hospitality Management",
+   "name": "BS Tourism & Hospitality Management (After 12 Years Education) Duration 4 Years (Group-A) (After 12 Years Education) Duration 4 Years (Group-B)",
+   "criteria": "FA/FSc / D.Com or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Department of Tourism & Hospitality Management",
+   "name": "BS Tourism & Hospitality Management",
+   "criteria": "FA/FSc / D.Com or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "University College of Conventional Medicine",
+   "name": "BEMS (Bachelor of Eastern Medicine & Surgery) (5 Years Program) (Mor)",
+   "criteria": "Minimum 45% in FSc (Pre-Medical) / BSc (Botany, Zoology, Chemistry)",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": 45.0,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: subset_global."
+  },
+  {
+   "dept": "University College of Conventional Medicine",
+   "name": "BHMS (Bachelor of Homeopathic Medical Science) (5 Years Program) (Mor)",
+   "criteria": "Minimum 45% in FSc (Pre-Medical) / BSc (BZC) / DHMS Equivalency",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": 45.0,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: subset_global."
+  },
+  {
+   "dept": "Department of Physical Therapy",
+   "name": "Doctor of Physical Therapy (5 Years Program) (Group-B)",
+   "criteria": "FSc Pre-Medical with MCAT/NAT/IUB Test Minimum 60%",
+   "merit_formula": "FSc 80% + Test 20%",
+   "min_marks_pct": 60.0,
+   "entry_test": "Test (see criteria)",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Human Diet and Nutrition",
+   "name": "BS Human Nutrition & Dietetics - 4 Years Program (Group-B)",
+   "criteria": "FSc Pre-Medical (Minimum 45%) + Test",
+   "merit_formula": "FSc 80% + Test 20%",
+   "min_marks_pct": 45.0,
+   "entry_test": "Test (see criteria)",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Department of Public Health",
+   "name": "BS Public Health (Group-A)",
+   "criteria": "60% in FSc (Pre-Medical) or BSc + Test",
+   "merit_formula": "FSc 80% + Test 20%",
+   "min_marks_pct": null,
+   "entry_test": "Test (see criteria)",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Public Health",
+   "name": "BS Public Health (Group-B)",
+   "criteria": "60% in FSc (Pre-Medical) or BSc + Test",
+   "merit_formula": "FSc 80% + Test 20%",
+   "min_marks_pct": null,
+   "entry_test": "Test (see criteria)",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Laboratory Technology",
+   "name": "BS Medical Laboratory Technology (Group-B)",
+   "criteria": "FSc Pre-Medical (Minimum 50%) + Test",
+   "merit_formula": "FSc 80% + Test 20%",
+   "min_marks_pct": 50.0,
+   "entry_test": "Test (see criteria)",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Department of Forensic Science",
+   "name": "BS Forensic Science (Group-B)",
+   "criteria": "FSc Pre-Medical (Minimum 45%) + Test",
+   "merit_formula": "FSc 80% + Test 20%",
+   "min_marks_pct": 45.0,
+   "entry_test": "Test (see criteria)",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Botany",
+   "name": "BS Botany (Group-A)",
+   "criteria": "FSc Pre-Medical or Equivalent + MCAT/IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": "Test (see criteria)",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Botany",
+   "name": "BS Botany (Group-B)",
+   "criteria": "FSc Pre-Medical or Equivalent + MCAT/IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": "Test (see criteria)",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Chemistry",
+   "name": "BS Chemistry (Group-A)",
+   "criteria": "FSc Pre-Medical or Equivalent + MCAT/IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": "Test (see criteria)",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Chemistry",
+   "name": "BS Chemistry (Group-B)",
+   "criteria": "FSc Pre-Medical or Equivalent + MCAT/IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": "Test (see criteria)",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Geography",
+   "name": "BS. Geography (Group-A)",
+   "criteria": "Marks in F.A./F.Sc or equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Geography",
+   "name": "BS. Geography (Group-B)",
+   "criteria": "Marks in F.A./F.Sc or equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Mathematics",
+   "name": "BS Mathematic (Group-A)",
+   "criteria": "F.Sc./ICS with Math or Equivalent + NAT/IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": "NAT",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Mathematics",
+   "name": "BS Mathematic (Group-B)",
+   "criteria": "F.Sc./ICS with Math or Equivalent + NAT/IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": "NAT",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Statistics",
+   "name": "BS Statistics (Group-A)",
+   "criteria": "FA/FSc or Equivalent + NAT/IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": "NAT",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Statistics",
+   "name": "BS Statistics (Group-B)",
+   "criteria": "FA/FSc or Equivalent + NAT/IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": "NAT",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Zoology",
+   "name": "BS Zoology (Group-A)",
+   "criteria": "FSc Pre-Medical or A-Level + NAT/IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": "NAT",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Zoology",
+   "name": "BS Zoology (Group-B)",
+   "criteria": "FSc Pre-Medical or A-Level + NAT/IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": "NAT",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Institute of Physics",
+   "name": "BS Physics (Group-A)",
+   "criteria": "FSc or A-Level + ECAT/NAT/IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": "ECAT",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Institute of Physics",
+   "name": "BS Physics (Group-B)",
+   "criteria": "FSc or A-Level + ECAT/NAT/IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": "ECAT",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Biochemistry",
+   "name": "BS. Bio Chemistry (Group-A)",
+   "criteria": "FSc Pre-Medical or Pre-Engineering or A-Level with Chemistry + MCAT/NAT/IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": "Test (see criteria)",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Department of Biochemistry",
+   "name": "BS. Bio Chemistry (Group-B)",
+   "criteria": "FSc Pre-Medical or Pre-Engineering or A-Level with Chemistry + MCAT/NAT/IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": "Test (see criteria)",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Department of Biotechnology",
+   "name": "BS. Bio Technology (Group-A)",
+   "criteria": "FSc Pre-Medical or Pre-Engineering or A-Level with Chemistry + MCAT/NAT/IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": "Test (see criteria)",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Department of Biotechnology",
+   "name": "BS. Bio Technology (Group-B)",
+   "criteria": "FSc Pre-Medical or Pre-Engineering or A-Level with Chemistry + MCAT/NAT/IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": "Test (see criteria)",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Department of Bioinformatics",
+   "name": "BS. Bioinformatics (Group-B)",
+   "criteria": "FSc Pre-Medical or Pre-Engineering or A-Level with Chemistry + MCAT/NAT/IUB Test",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": "Test (see criteria)",
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Department of Social Work",
+   "name": "BS Anthropology (Group-A)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Department of Social Work",
+   "name": "BS Anthropology (Group-B)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Department of Applied Psychology",
+   "name": "BS Applied Psychology (Group-A)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Applied Psychology",
+   "name": "BS Applied Psychology (Group-B)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Economics",
+   "name": "BS Economics (Group-A)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Economics",
+   "name": "BS Economics (Group-B)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Economics",
+   "name": "BS Economics & Finance (Group-A)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of Economics",
+   "name": "BS Economics & Finance (Group-B)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_dept."
+  },
+  {
+   "dept": "Department of International Relations",
+   "name": "BS International Relations (Group-A)",
+   "criteria": "Marks in FA/FSc/D.Com or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Department of International Relations",
+   "name": "BS International Relations (Group-B)",
+   "criteria": "Marks in FA/FSc/D.Com or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Department of International Relations",
+   "name": "BS Defence and Diplomatic Studies (Group-A)",
+   "criteria": "Marks in FA/FSc/D.Com or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Department of International Relations",
+   "name": "BS Defence and Diplomatic Studies (Group-B)",
+   "criteria": "Marks in FA/FSc/D.Com or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Department of Political Science",
+   "name": "BS Political Science (Group-A)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Department of Political Science",
+   "name": "BS Political Science (Group-B)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Department of Public Administration",
+   "name": "BS Public Administration (Group-A)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  },
+  {
+   "dept": "Department of Public Administration",
+   "name": "BS Public Administration (Group-B)",
+   "criteria": "Marks in FA/FSc or Equivalent",
+   "merit_formula": "Percentage of obtained marks",
+   "min_marks_pct": null,
+   "entry_test": null,
+   "notes": "Eligibility criteria and merit formula from the official IUB eligibility criteria page (iub.edu.pk), fetched 2026-11-16. Match: exact_base."
+  }
+ ],
+ "deadlines": [
+  {
+   "title": "Bachelor Degree Programs — Fall 2026 (Last date to apply)",
+   "session": "Fall 2026",
+   "closes_on": "2026-09-30",
+   "source": "IUB official admission advertisement (iub.edu.pk/admissions)",
+   "description": "Last date to apply online at eportal.iub.edu.pk for Bachelor Degree Programs, Academic Session Fall-2026, as printed in the official advertisement (Directorate of Academics, Phone 062-9255885). Note: this date has passed; the next intake will be announced by IUB."
+  },
+  {
+   "title": "MPhil/MS/MSc (Hons)/MBA & PhD Admissions — Fall 2026 (Date extended)",
+   "session": "Fall 2026",
+   "closes_on": "2026-09-15",
+   "source": "IUB official admissions page (iub.edu.pk/admissions)",
+   "description": "Date extended up to 15/09/26, as announced on the official IUB admissions page. Apply online at eportal.iub.edu.pk. Note: this date has passed; the next intake will be announced by IUB."
+  }
+ ],
+ "announcements": [
+  {
+   "title": "Admissions Open — Bachelor Degree Programs, Fall 2026",
+   "body": "Admissions announced for Bachelor Degree Programs for the Academic Session Fall-2026 on the official IUB website. Last date to apply: 30 September 2026 (now passed). Apply online: eportal.iub.edu.pk. Source: iub.edu.pk/admissions (fetched 2026-11-16)."
+  },
+  {
+   "title": "Admissions Open — MPhil/MS/MSc (Hons)/MBA & PhD, Fall 2026 (date extended)",
+   "body": "MPhil/MS/MSc (Hons)/MBA & PhD admissions for Fall Semester 2026 announced on the official IUB website; the last date was extended up to 15 September 2026 (now passed). Apply online: eportal.iub.edu.pk. Source: iub.edu.pk/admissions (fetched 2026-11-16)."
+  },
+  {
+   "title": "Admission Open — LLB 4 Years Programs (Semester System), Fall 2026",
+   "body": "Admission announced for LLB 4 Years programs (under semester system), Fall 2026, on the official IUB admissions page. Apply online: eportal.iub.edu.pk. Source: iub.edu.pk/admissions (fetched 2026-11-16)."
+  }
+ ],
+ "policies": [
+  {
+   "title": "IUB Merit Determination Rules",
+   "text": "The merit of any applicant, who has passed an examination other than BA/BSc, FA/FSc, shall be determined by making a proportionate conversion of his/her marks obtained in such examination to the total marks of BA/BSc level examination of this University or FA/FSc level Examination of BISE, Bahawalpur as the case may be. However, in case of each year lost, 5 marks shall be deducted from total marks obtained in last qualifying exam i.e, FA/FSc, or BA/BSc or equivalent examinations provided that maximum deduction will be of 40 marks. This clause shall not apply to the applicants seeking admission against the seats reserved for in-service candidates. For admission to BSc Engineering 10 marks will be deducted for each year lost. However, no deduction will be made for candidate applying after qualifying BSc in current year and for those who have done additional Mathematics in current year in FSc. Subject to the provision of clause (ii) below only those candidates who have passed the Bachelor's Degree from this University or equivalent examination of a recognized University at least in 2nd division or otherwise mentioned, shall be eligible for admission to the postgraduate classes. Condition of at least second division or otherwise mentioned by the department, shall alsobe applicable to the candidate seeking admission to the undergraduate classes on the basis of Intermediate or equivalent examination. In case a candidate who has passed his BA examination from the University where the compulsory English is of less than 200 marks or passed his/her BA/BSc examination without English, the following deduction will be made from the total marks while determining merit: Marks to be deducted BA with compulsory English of 150 marks 10 marks. BA with compulsory English of 100 marks 20 marks. BA/BSc without compulsory English 40 marks. 20 marks for NCC/WG and Hafiz-e-Quran each will be added in the marks obtained in last qualifying examination. In case of tie among the applicants, merit shall be determined firstly after adding the total marks obtained in the Intermediate examination and secondly, if the tie still persists, by adding total marks obtained in the Matriculation examination to the total marks obtained in BA/BSc or equivalent examination. Menu Why IUB? Admission Ad Fee Structure Important Dates How to Apply Admission / Test Faq's Reserved Seats Eligibility Criteria Merit Determination Admission Queries / Contact Menu Why IUB? Admission Ad Fee Structure Important Dates How to Apply Admission / Test Faq's Reserved Seats Eligibility Criteria Merit Determination Admission Queries / Contact The Islamia University of Bahawalpur The Islamia University of Bahawalpur was established in the year 1975 by upgrading historical institute of the Jamia Abbasia. +92 - 62 - 9250235 info@iub.edu.pk SDGs Goals Portal About University Registrar Office RTI",
+   "source": "IUB official Merit Determination page (iub.edu.pk/merit-determination), fetched 2026-11-16"
+  },
+  {
+   "title": "General Admission Rules — Bachelor Programs (Fall 2026 Advertisement)",
+   "text": "From the official IUB Bachelor Degree Programs admission advertisement, Fall 2026: Candidates who have passed BA/BSc or associate degree will be eligible for admission in the 5th semester of BS programs. 1st year and 3rd year passed students are also eligible to apply for admission in all programs. Merit will be calculated on 1st year and 3rd year basis/marks. Second/4th year results will have no effect on merit calculation; however, it will be required to meet the minimum eligibility criteria. Applications are submitted online at eportal.iub.edu.pk. Last date to apply: September 30, 2026. Directorate of Academics, Phone 062-9255885.",
+   "source": "IUB official Fall 2026 Bachelor admission advertisement PDF (iub.edu.pk), fetched 2026-11-16"
+  },
+  {
+   "title": "MPhil/MS & PhD — General Eligibility (Fall 2026 Advertisement)",
+   "text": "From the official IUB MPhil/MS/MSc (Hons)/MBA & PhD admission advertisement, Fall 2026: For MPhil/MS/MSc (Hons)/MBA: Master Degree (sixteen years of education or equivalent) with at least 2nd division in the relevant subject under annual system or with 2.0 out of 4.00 CGPA under the Semester System recognized by the Higher Education Commission of Pakistan. A valid GRE / HAT (General) / IUB Departmental Test or equivalent test conducted by any recognized agency with at least 50% marks is required. Minimum CGPA 2.00/4.00 in semester system or 50% marks in case of annual/term system. Incomplete application forms will not be entertained. Schedule of interview, merit list and IUB departmental test will be announced on www.iub.edu.pk. For eligibility and other admission related queries: Email pg.admission@iub.edu.pk, Phone 062-9255484.",
+   "source": "IUB official Fall 2026 MPhil/PhD admission advertisement PDF (iub.edu.pk), fetched 2026-11-16"
+  },
+  {
+   "title": "IUB Special Test (PhD Subject) — Batch Schedule",
+   "text": "IUB Special Test Ph.D. (Subject) — the official IUB Important Dates page publishes a repeating monthly batch cycle: Online Apply 01 to 07 Jan, Test Expected 11 to 14 Jan; Online Apply 14 to 20 Jan, Test Expected 24 to 28 Jan; Online Apply 01 to 07 Feb, Test Expected 11 to 14 Feb; Online Apply 14 to 20 Feb, Test Expected 24 to 28 Feb; Online Apply 01 to 07 Mar, Test Expected 11 to 14 Mar; Online Apply 14 to 20 Mar, Test Expected 24 to 28 Mar; Online Apply 01 to 07 Apr, Test Expected 11 to 14 Apr; Online Apply 14 to 20 Apr, Test Expected 24 to 28 Apr; Online Apply 01 to 07 May, Test Expected 11 to 14 May; Online Apply 14 to 20 May, Test Expected 24 to 28 May; Online Apply 01 to 07 Jun, Test Expected 11 to 14 Jun; Online Apply 14 to 20 Jun, Test Expected 24 to 28 Jun; Online Apply 01 to 07 July, Test Expected 11 to 14 July; Online Apply 14 to 20 July, Test Expected 24 to 28 July; Online Apply 01 to 07 Aug, Test Expected 11 to 14 Aug; Online Apply 14 to 20 Aug, Test Expected 24 to 28 Aug; Online Apply 01 to 07 Sep, Test Expected 11 to 14 Sep; Online Apply 14 to 20 Sep, Test Expected 24 to 28 Sep; Online Apply 01 to 07 Oct, Test Expected 11 to 14 Oct; Online Apply 14 to 20 Oct, Test Expected 24 to 28 Oct; Online Apply 01 to 07 Nov, Test Expected 11 to 14 Nov; Online Apply 14 to 20 Nov, Test Expected 24 to 28 Nov; Online Apply 01 to 07 Dec, Test Expected 11 to 14 Dec; Online Apply 14 to 20 Dec, Test Expected 24 to 28 Dec.",
+   "source": "IUB official Important Dates page (iub.edu.pk/important-dates), fetched 2026-11-16"
+  }
+ ]
+}
